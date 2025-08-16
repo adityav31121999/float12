@@ -1,2 +1,2 @@
 # float12
-float12 data type with E6M5 structure
+- This is data type for float12 E5M6.
